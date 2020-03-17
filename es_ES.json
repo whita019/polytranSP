@@ -795,7 +795,7 @@
   "onlineview.game.resign.title": "Rendirse",
   "onlineview.game.resign.info": "¿Seguro que quieres abandonar permanentemente la partida?",
   "onlineview.game.old.title": "Antigua versión de archivo",
-  "onlineview.game.old.info": "Esta partida fue creada con una versió ndesactualizada del juego y, desafortunadamente, no puede cargarse. Mi sugerencia es que la borres y empieces una nueva. Lamento los inconvenientes :(",
+  "onlineview.game.old.info": "Esta partida fue creada con una versión desactualizada del juego y, desafortunadamente, no puede cargarse. Mi sugerencia es que la borres y empieces una nueva. Lamento los inconvenientes :(",
   "onlineview.game.player.left": "{0} ha abandonado la partida {1} y ha sido reemplazado por un bot.",
   "onlineview.game.player.kicked": "Te han eliminado de la partida {0}",
   "onlineview.game.player.invited": "Te han invitado a una nueva partida, {0}",
