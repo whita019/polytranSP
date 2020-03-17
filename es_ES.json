@@ -3,7 +3,7 @@
   "startmenu.new_game": "NUEVA PARTIDA",
   "startmenu.multiplayer": "MULTIJUGADOR",
   "startmenu.resume_game": "CONTINUAR",
-  "startmenu.settings": "Opciones",
+  "startmenu.settings": "Ajustes",
   "startmenu.high_score": "Clasificación",
   "startmenu.throne_room": "Sala del Trono",
   "startmenu.about": "Acerca de",
@@ -700,7 +700,7 @@
   "gamestatus.tasks": "Retos {0}/{1}",
   "gamestatus.tasks.complete": "¡Completado",
 
-  "settings.title": "OPCIONES",
+  "settings.title": "AJUSTES",
   "settings.volume": "Volumen de audio {0}",
   "settings.soundeffects": "Efectos de Sonido",
   "settings.ambience": "Ambiente",
