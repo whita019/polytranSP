@@ -684,7 +684,7 @@
   "gamestats.speed": "Rapidez",
   "gamestats.speed.info": "{0}/{1} turns",
   "gamestats.battle": "Combate",
-  "gamestats.battle.info": "{0} ganadas, {1} perdidas",
+  "gamestats.battle.info": "{0} ganados, {1} perdidos",
   "gamestatus.tribes": "Tribus destruidas",
   "gamestatus.difficulty": "Porcentaje por dificultad",
   "gamestatus.capitals": "Capitales en Propiedad",
