@@ -207,7 +207,7 @@
   "building.produce.multiply": " ({0} por cada {1} cercano)",
   "building.produce.multiply2": "produce {0} por cada {1} cercano cada turno",
   "building.produce.multiply3": "produce {0} por cada {1} cercano",
-  "building.produce.reward.named": "produce {0} por {1}",
+  "building.produce.reward.named": "produce {0} para {1}",
   "building.produce.reward": "produce {0}",
   "building.reward.tech": "te da un {0}",
   "building.reward.instant": "te da instantáneamente {0}",
