@@ -340,7 +340,7 @@
   "actionbox.building.level": "nivel {0}/{1}",
   "actionbox.tile.roads": "caminos",
   "actionbox.city": "La ciudad de {0}",
-  "actionbox.city.level": "nivel {0}",
+  "actionbox.city.level": "nv.{0}",
   "actionbox.village": "Aldea",
   "actionbox.unit.frozen": "{0} congelado",
   "actionbox.unit.kills": "{0}/{1} muertes",
