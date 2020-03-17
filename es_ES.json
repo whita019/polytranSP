@@ -221,7 +221,7 @@
   "building.ability.road": "Construye caminos para conectar tus ciudades con la capital. Las ciudades conectadas reciben 1 de población como recompensa. Los caminos también otorgan un bonus de movimiento a todas tus unidades.",
   "building.ability.ruin": "Ruinas de una antigua civilización, ¡pueden ocultar valiosos tesoros! Mueve aquí una unidad para examinarlas.",
   "building.ability.patina": "El {0} crece con el tiempo, así que intenta construirlo lo antes posible.",
-  "building.ability.limited": "Sólo puedes construir un {0} por cada ciudad.",
+  "building.ability.limited": "Sólo puedes construir un {0} en cada ciudad.",
   "building.ability.unique": "El monumento {0} sólo puede ser construido una vez.",
   "building.restriction.near": "Debe ser construido al lado de una casilla de {0}.",
   "building.restriction.on": "Debe estar en una casilla con {0}.",
