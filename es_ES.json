@@ -359,7 +359,7 @@
   "actionbox.confirm.info": "¿Seguro que quieres hacer esto?",
   "actionbox.confirm.button": "SÍ",
 
-  "tooltip.tile.road": "Construye un camino para conectar esta ciudad con tu capital.",
+  "tooltip.tile.road": "Construye caminos para conectar esta ciudad con tu capital.",
   "tooltip.tile.choose_unit": "Escoge la unidad a producir.",
   "tooltip.tile.limit": "Esta ciudad no puede contener más unidades.",
   "tooltip.tile.capture.enemy": "¡Un enemigo está capturando tu ciudad!",
@@ -592,7 +592,7 @@
   "action.info.recover": "recuperar salud",
   "action.info.healothers": "curar otras unidades",
   "action.info.train": "desplegar una unidad en esta ciudad. Las unidades pueden explorar el mundo, atacar enemigos y defender tus ciudades",
-  "action.info.move": "mover esta unidad. Selecciona la unidad y toca un marcador AZUL para moverla",
+  "action.info.move": "mover esta unidad. Selecciona la unidad y toca un marcador AZUL para moverla.",
   "action.info.capture": "capturar",
   "action.info.capture2": "capturar esta ciudad. Las ciudades generan estrellas que puedes usar para mejorar tu imperio cada turno",
   "action.info.destroy": "destruir",
