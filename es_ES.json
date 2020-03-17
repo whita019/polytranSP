@@ -161,7 +161,7 @@
   "world.reward.building": "¡Ahora puedes construir {0}! Este épico monumento traerá gloria y prosperidad a la ciudad más cercana.",
   "world.reward.building.title": "{0} completado",
   "world.meet.tribe": "Te encuentras con {0}",
-  "world.task.new": "¡Tienes una nueva tarea!",
+  "world.task.new": "¡Tienes un nuevo reto!",
 
   "tribes.nature": "Naturaleza",
   "tribes.xin-xi": "Xin-xi",
@@ -437,7 +437,7 @@
   "gamesaverbinary.unable.to.save.title": "No he podido guardar :(",
   "gamesaverbinary.error.loading.moves": "Error al cargar los movimientos",
 
-  "polyplayer.task": "(tarea)",
+  "polyplayer.task": "(reto)",
   "polyplayer.task.explorer.title": "Explorador",
   "polyplayer.task.explorer.description": "Explora todas y cada una de las casillas de este mundo cuadrado",
   "polyplayer.task.war.title": "Despiadado",
@@ -543,7 +543,7 @@
   "technology.movement.info": "permite el movimiento en {0}",
   "technology.defence": "Bonus defensivo",
   "technology.defence.info": "aporta fuerza extra a tu unidad al defender en {0}",
-  "technology.task": "{0} activa la tarea {1}",
+  "technology.task": "{0} activa el reto {1}",
   "technology.ability": "Habilidad",
   "technology.ability.info": "{1} te da la habilidad para {1}",
   "technology.names.basic": "Básicas",
@@ -697,8 +697,8 @@
   "gamestatus.city": "{0} ciudad",
   "gamestatus.cities": "{0} ciudades",
   "gamestatus.destroyed": "destruidas",
-  "gamestatus.tasks": "Tareas {0}/{1}",
-  "gamestatus.tasks.complete": "¡Completadas!",
+  "gamestatus.tasks": "Retos {0}/{1}",
+  "gamestatus.tasks.complete": "¡Completado",
 
   "settings.title": "OPCIONES",
   "settings.volume": "Volumen de audio {0}",
