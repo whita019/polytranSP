@@ -376,7 +376,7 @@
   "tooltip.tile.extract.upgrade": "Extrae este recurso para mejorar tu ciudad",
   "tooltip.tile.extract.convert": "Este recurso puede ser transformado en una unidad",
   "tooltip.tile.extract.stars": "Extrae este recurso para ganar estrellas inmediatamente",
-  "tooltip.tile.extract.research": "Necesitas investigar {0} para extraer este recurso",
+  "tooltip.tile.extract.research": "Necesitas investigar {0} para explotar este recurso",
   "tooltip.tile.outside": "Este recurso queda fuera de tus fronteras",
   "tooltip.tile.research": "Necesitas investigar {0} para poder moverte aquí",
   "tooltip.tile.explore": "¡Explora este área para descubrir lo que oculta!",
