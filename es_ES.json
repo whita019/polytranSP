@@ -537,7 +537,7 @@
   "wcontroller.removingplayer": "Eliminando Jugador",
   "wcontroller.not.your.turn": "Lo siento, ¡aún no es tu turno!",
 
-  "technology.intro": "Esta tecnología desbloqueará lo siguiente:",
+  "technology.intro": "Esta tecnología desbloquea lo siguiente:",
   "technology.build": "{0} hace que sea posible construir {1}",
   "technology.movement": "Movimiento",
   "technology.movement.info": "permite el movimiento en {0}",
