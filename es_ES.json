@@ -840,7 +840,7 @@
   "friendlist.friends.old": "Amigos desactualizados",
   "friendlist.local": "Jugadores Locales",
   "friendlist.bots": "Bots",
-  "friendlist.bot": "Bot (Dificultad: {0})",
+  "friendlist.bot": "Bot ({0})",
   "friendlist.player": "Jugador {0}",
   "friendlist.remove": "ELIMINAR",
   "friendlist.reload": "RECARGAR",
