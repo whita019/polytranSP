@@ -782,7 +782,7 @@
   "onlineview.fixit": "APOYAR",
   "onlineview.clipboard": "ID de Partida copiado al portapapeles: {0}",
   "onlineview.clipboard.title": "Et voilà!",
-  "onlineview.game.join": "UNIRSE A LA PARTIDA",
+  "onlineview.game.join": "UNIRSE",
   "onlineview.game.start": "EMPEZAR PARTIDA",
   "onlineview.game.open": "ABRIR",
   "onlineview.game.size": "Tamaño del Mapa",
