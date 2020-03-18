@@ -5,7 +5,7 @@
   "startmenu.resume_game": "CONTINUAR",
   "startmenu.settings": "Ajustes",
   "startmenu.high_score": "Clasificación",
-  "startmenu.throne_room": "Sala del Trono",
+  "startmenu.throne_room": "Salón del Trono",
   "startmenu.about": "Acerca de",
 
   "news.title": "NOTICIAS POLYTOPIENSES",
@@ -717,7 +717,7 @@
   "settings.language.load.info":"Probando, probando, ¿sí? ¡Funciona! :D",
   "settings.language.load.input":"URL del archivo de idioma:",
   "settings.language.load.button":"CARGAR",
-  "throne.title": "SALA DEL TRONO",
+  "throne.title": "SALÓN DEL TRONO",
   "throne.reset": "resetear puntuaciones",
   "throne.playerinfo": "Información del Jugador",
   "throne.playerid": "ID del Jugador",
@@ -737,7 +737,7 @@
   "throne.google.in": "INICIAR SESIÓN",
 
   "consent.approval.title":"¡Bienvenido a Polytopia!",
-  "consent.approval.info":"Para mejorar Polytopia con estadísticas de uso y para almacenar tus estadísticas y puntuaciones, necesitamos que nos permitas el acceso a algunos datos personales.\nPuedes leer más acerca de los datos que recopilamos en nuestra <u><a href='{0}'>política de privacidad</a></u>.\n(Puedes negarnos el acceso a tus datos en cualquier momento en la 'Sala del Trono')",
+  "consent.approval.info":"Para mejorar Polytopia con estadísticas de uso y para almacenar tus estadísticas y puntuaciones, necesitamos que nos permitas el acceso a algunos datos personales.\nPuedes leer más acerca de los datos que recopilamos en nuestra <u><a href='{0}'>política de privacidad</a></u>.\n(Puedes negarnos el acceso a tus datos en cualquier momento en el 'Salón del Trono')",
   "consent.approve":"PERMITIR",
   "consent.deny":"DENEGAR",
   "consent.enabled":"Datos Personales activados",
