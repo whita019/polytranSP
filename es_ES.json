@@ -216,7 +216,7 @@
   "building.resource": "añade un {0} a la casilla seleccionada",
   "building.value": "tiene un valor de {0} puntos",
   "building.ability.embark": "Las únidades que entren en contacto con esta casilla se convertirán en barcos que pueden avanzar por el agua.",
-  "building.ability.route": "Crea rutas comerciales desde {0} hasta cualquier otra {1} en un radio de 5 casillas.",
+  "building.ability.route": "Crea rutas comerciales por {0} hasta cualquier otro {1} en un radio de 5 casillas.",
   "building.ability.route.and": " y ",
   "building.ability.road": "Construye caminos para conectar tus ciudades con la capital. Las ciudades conectadas reciben 1 de población como recompensa. Los caminos también otorgan un bonus de movimiento a todas tus unidades.",
   "building.ability.ruin": "Ruinas de una antigua civilización, ¡pueden ocultar valiosos tesoros! Mueve aquí una unidad para examinarlas.",
