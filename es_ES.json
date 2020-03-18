@@ -740,9 +740,9 @@
   "consent.approval.info":"Para mejorar Polytopia con estadísticas de uso y para almacenar tus estadísticas y puntuaciones, necesitamos que nos permitas el acceso a algunos datos personales.\nPuedes leer más acerca de los datos que recopilamos en nuestra <u><a href='{0}'>política de privacidad</a></u>.\n(Puedes negarnos el acceso a tus datos en cualquier momento en el 'Salón del Trono')",
   "consent.approve":"PERMITIR",
   "consent.deny":"DENEGAR",
-  "consent.enabled":"Datos Personales activados",
+  "consent.enabled":"Recopilación de datos personales activada",
   "consent.enabled.info":"Actualmente permites que Polytopia acceda a algunos datos personales para mejorar sus servicios y almacenar tus puntuaciones, etc. Para más información, lee nuestra <u><a href='{0}'>política de privacidad</a></u>.",
-  "consent.disabled":"Personal Data Disabled",
+  "consent.disabled":"Recopilación de datos personales desactivada",
   "consent.disabled.info":"Necesitamos tu aprobación para recopilar datos personales como estadísticas de uso y puntuaciones. Para más información, lee nuestra <u><a href='{0}'>política de privacidad</a></u>.",
   "consent.revoke":"denegar acceso a mis datos",
 
