@@ -159,7 +159,7 @@
   "world.tech.new.message": "Has descubierto el secreto de la tecnología {0}",
   "world.reward.levelup": "¡{0} sube de nivel!",
   "world.reward.building": "¡Ahora puedes construir {0}! Este épico monumento traerá gloria y prosperidad a la ciudad más cercana.",
-  "world.reward.building.title": "{0} construido",
+  "world.reward.building.title": "{0} completado",
   "world.meet.tribe": "Te encuentras con {0}",
   "world.task.new": "¡Tienes un nuevo reto!",
 
