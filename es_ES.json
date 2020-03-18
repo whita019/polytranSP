@@ -715,7 +715,7 @@
   "settings.restartlanguage": "Por favor, reinicia Polytopia para actualizar correctamente el idioma",
   "settings.language.load.title":"Idioma Personalizado",
   "settings.language.load.info":"Probando, probando, ¿sí? ¡Funciona! :D",
-  "settings.language.load.input":"URL del archivo de idioma:",
+  "settings.language.load.input":"URL de idioma:",
   "settings.language.load.button":"CARGAR",
   "throne.title": "SALÓN DEL TRONO",
   "throne.reset": "resetear puntuaciones",
