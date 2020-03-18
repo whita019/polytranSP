@@ -492,7 +492,7 @@
   "wcontroller.examine.population.title": "Población",
   "wcontroller.move.unto.unit": "NO PUEDES MOVER SOBRE OTRA UNIDAD",
   "wcontroller.building.upgrade": "¡Tu {0} ha sido mejorado a {1}!",
-  "wcontroller.building.upgrade.reward": "{0} ha subido al nivel {1} y su producción ha aumentado +1. Puedes escoger una recompensa adicional:",
+  "wcontroller.building.upgrade.reward": "{0} ha subido al nivel {1} y su producción ha aumentado en +1. Puedes escoger una recompensa adicional:",
   "wcontroller.reward.workshop": "Taller",
   "wcontroller.reward.citywall": "Muralla",
   "wcontroller.reward.populationgrowth": "Crecimiento poblacional",
