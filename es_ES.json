@@ -515,7 +515,7 @@
   "wcontroller.tribe.destroy": "¡Has destruido la tribu {0}!",
   "wcontroller.tribe.destroy.title": "¡Sangre!",
   "wcontroller.tribe.destroy2": "¡La tribu {0} ha sido destruida por los {1}!",
-  "wcontroller.tribe.destroy.all": "¡Has destruido todas las demás tribus y unificado todo el cuadrilátero bajo tu mandato!",
+  "wcontroller.tribe.destroy.all": "¡Has aniquilado todas las demás tribus y unificado todo el cuadrilátero bajo tu mandato!",
   "wcontroller.tribe.destroy.all.title": "¡Dominación!",
   "wcontroller.city.disconnect": "{0} ha sido desconectada de {1}",
   "wcontroller.city.disconnect.title": "¡Ruta comercial perdida!",
