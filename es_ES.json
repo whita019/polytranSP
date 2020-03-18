@@ -737,7 +737,7 @@
   "throne.google.in": "INICIAR SESIÓN",
 
   "consent.approval.title":"¡Bienvenido a Polytopia!",
-  "consent.approval.info":"Para mejorar Polytopia con estadísticas de uso y para almacenar tus estadísticas y puntuaciones, necesitamos que nos permitas el acceso a algunos datos personales.\nPuedes leer más acerca de los datos que recopilamos en nuestra <u><a href='{0}'>política de privacidad</a></u>.\n(Puedes negarnos el acceso a tus datos en cualquier momento en el 'Salón del Trono')",
+  "consent.approval.info":"Para mejorar Polytopia con estadísticas de uso y almacenar tus estadísticas y puntuaciones, necesitamos que nos permitas el acceso a algunos datos personales.\nPuedes leer más acerca de los datos que recopilamos en nuestra <u><a href='{0}'>política de privacidad</a></u>.\n(Puedes negarnos el acceso a tus datos en cualquier momento en el 'Salón del Trono')",
   "consent.approve":"PERMITIR",
   "consent.deny":"DENEGAR",
   "consent.enabled":"Recopilación de datos personales activada",
