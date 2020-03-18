@@ -116,7 +116,7 @@
   "world.turn.end.question": "¿Quieres terminar tu turno?",
   "world.turn.end.confirm": "Confirmar",
   "world.turn.next": "Pasar Turno",
-  "world.turn.finish": "Terminar Juego",
+  "world.turn.finish": "Terminar",
   "world.turn.nomoves": "No te quedan movimientos, pasa el turno",
   "world.turn.start": "EMPEZAR",
   "world.turn.exit": "Salir",
