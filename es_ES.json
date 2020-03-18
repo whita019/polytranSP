@@ -395,7 +395,7 @@
   "tooltip.unit.decay.later": "Esta unidad será disuelta en {0} turnos.",
   "tooltip.ability.disband": "Elimina cualquiera de tus unidades y recupera la mitad de su coste.",
   "tooltip.ability.destroy": "Elimina cualquier edificio dentro de tus fronteras. Ideal para remodelar tu imperio.",
-  "tooltip.ability.literacy": "Reduce el precio de todas las tecnologías en un 20%.",
+  "tooltip.ability.literacy": "Reduce el coste de todas las tecnologías en un 20%.",
   "tooltip.ability.glide": "Todas las unidades no patinadoras reciben un movimiento extra al moverse sobre hielo.",
   "tooltip.ability.dash": "Esta unidad puede atacar tras moverse si hay algún enemigo a su alcance.",
   "tooltip.ability.convert": "Esta unidad puede convertir una unidad enemiga y hacerla parte de tu ejército. ¡Wololo!",
