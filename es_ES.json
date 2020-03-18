@@ -331,7 +331,7 @@
   "resource.names.metal": "metal",
 
   "terrain.unknown": "Terrenos desconocidos",
-  "terrain.water": "Agua",
+  "terrain.water": "Aguas poco profundas",
   "terrain.ocean": "Océano",
   "terrain.field": "Campo",
   "terrain.forest": "Bosque",
