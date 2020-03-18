@@ -111,7 +111,7 @@
 
   "world.intro.title": "¡Gran líder!",
   "world.intro.text": "Te han elegido para gobernar la tribu {0}. Explora el mundo y expande tu imperio, ¡pero mantente alerta! Podrías encontrarte con otras tribus…",
-  "world.intro.objective": "Objectivo: {0}",
+  "world.intro.objective": "Objetivo: {0}",
   "world.turn.end": "Fin Turno",
   "world.turn.end.question": "¿Quieres terminar tu turno?",
   "world.turn.end.confirm": "Confirmar",
