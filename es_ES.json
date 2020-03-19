@@ -660,7 +660,7 @@
   "endscreen.showhiscore": "CLASIFICACIÓN",
   "endscreen.winner": "¡{0} gana!",
   "endscreen.victory": "VICTORIA",
-  "endscreen.gameover": "GAME OVER",
+  "endscreen.gameover": "DERROTA",
 
   "highscore.title": "CLASIFICACIÓN",
   "highscore.today": "Hoy",
